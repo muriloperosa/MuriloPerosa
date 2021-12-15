@@ -21,9 +21,10 @@
 
 <br/>
 
-- 📔 [Laravel for API's](https://drive.google.com/file/d/1ARdtvbe2nu5R20HTwOpNg07PQXijqa_r/view) - PDF document in Portuguese.
-- 📔 [Laravel for beginners](https://drive.google.com/file/d/1g6L30yBsNr53aWrvXxuK_JOnin1fK5PN/view) - PDF document in Portuguese.
-- 🔨 [Domain Tools](https://github.com/MuriloPerosa/domain-tools) - Open Source Composer Package.
+- 📔  [Laravel for API's](https://drive.google.com/file/d/1ARdtvbe2nu5R20HTwOpNg07PQXijqa_r/view) - PDF document in Portuguese.
+- 📔  [Laravel for beginners](https://drive.google.com/file/d/1g6L30yBsNr53aWrvXxuK_JOnin1fK5PN/view) - PDF document in Portuguese.
+- 🧪 [Domain Tools](https://github.com/MuriloPerosa/domain-tools) - Open Source Composer Package.
+- 🧪 [PHP Super Powers](https://github.com/MuriloPerosa/php-super-powers) - Open Source Composer Package. 
 
 ## These are some of my social networks!
 
