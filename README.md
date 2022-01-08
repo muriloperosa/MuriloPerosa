@@ -25,6 +25,7 @@
 - 📔  [Laravel for beginners](https://drive.google.com/file/d/1g6L30yBsNr53aWrvXxuK_JOnin1fK5PN/view) - PDF document in Portuguese.
 - 🧪 [Domain Tools](https://github.com/MuriloPerosa/domain-tools) - Open Source Composer Package.
 - 🧪 [PHP Super Powers](https://github.com/MuriloPerosa/php-super-powers) - Open Source Composer Package. 
+- 🧪 [PHP DotEnv](https://github.com/MuriloPerosa/php-dot-env) - Open Source Composer Package. 
 
 ## These are some of my social networks!
 
