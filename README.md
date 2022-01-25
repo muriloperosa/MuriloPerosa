@@ -28,7 +28,7 @@
 
 ### Open Source Composer Packages
 
-🧪 [Domain Tools](https://github.com/MuriloPerosa/domain-tools) - Handle Domain and DNS data. <br/>
+🧪 [Domain Tools](https://github.com/MuriloPerosa/domain-tools) - Handles Domain and DNS data. <br/>
 🧪 [PHP Super Powers](https://github.com/MuriloPerosa/php-super-powers) - General and usefull PHP helpers.<br/>
 🧪 [PHP DotEnv](https://github.com/MuriloPerosa/php-dot-env) - Loads environment file(s).<br/>
 
