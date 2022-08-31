@@ -5,6 +5,7 @@
 🎓 I graduated in System Analysis and Development (UPF) - Universidade de Passo Fundo.  <br/>
 🎓 I am certified in Agile Management & SCRUM (PUCRS) - Pontifícia Universidade Católica do Rio Grande do Sul. <br/>
 💼 I am currently developing and improving products for [Builderall](http://builderall.com/). <br/>
+👨🏻‍🏫 I am currently acting as Programming Mentor and focusing to teach web development for beginners. <br/>
 
 <br/>
 
