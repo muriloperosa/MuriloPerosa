@@ -32,7 +32,8 @@
 🧪 [Domain Tools](https://github.com/MuriloPerosa/domain-tools) - Handles Domain and DNS data. <br/>
 🧪 [PHP Super Powers](https://github.com/MuriloPerosa/php-super-powers) - General and usefull PHP helpers.<br/>
 🧪 [PHP DotEnv](https://github.com/MuriloPerosa/php-dot-env) - Loads environment file(s).<br/>
-
+🧪 [PHP Discord Webhook](https://github.com/muriloperosa/discord-webhook) - Send discord messages via webhook.<br/>
+  
 ## These are some of my social networks!
 
 [![LinkedIn](https://img.shields.io/badge/linkedin-836FFF?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/murilo-perosa/)
