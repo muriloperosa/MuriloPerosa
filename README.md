@@ -1,5 +1,5 @@
 # Hello, my name is Murilo Perosa! Welcome to my Github! 
-
+![](https://komarev.com/ghpvc/?username=muriloperosa)
 <br/>
 
 🎓 I graduated in System Analysis and Development (UPF) - Universidade de Passo Fundo.  <br/>
