@@ -7,20 +7,8 @@
 💼 I am currently developing and improving products for [Builderall](http://builderall.com/). <br/>
 👨🏻‍🏫 I am currently acting as Programming Mentor and focusing to teach web development for beginners. <br/>
 
-<br/>
-
-<div align="center">
-  <a href="https://github.com/MuriloPerosa">
-  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=MuriloPerosa&show_icons=true&theme=dark&include_all_commits=true&count_private=true"/>
-  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=MuriloPerosa&layout=compact&langs_count=7&theme=dark"/>
-</div>
-
-<br/>
-<br/>
-
 ## I really enjoy to create content about programming and contribute to open source projects. I can list here some of these contents/projects!
 
-<br/>
 
 ### Authorial Content
 
